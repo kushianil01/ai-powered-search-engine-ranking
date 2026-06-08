@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+lightgbm
+joblib
+rank-bm25
+scikit-learn
