@@ -1,4 +1,4 @@
-🔍 AI-Powered Search Ranking Engine
+#🔍 AI-Powered Search Ranking Engine
 Overview
 
 The AI-Powered Search Ranking Engine is an intelligent job search system that ranks job postings based on their relevance to a user's query. 
